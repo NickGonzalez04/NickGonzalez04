@@ -1,7 +1,7 @@
 
 # Hey, welcome to my Readme!🤓
 
-I'm Nick, - Growing my intelect more in new tech so I can help society make crazy advancements!
+I'm Nick, Growing my intelect more in new tech so I can help society make crazy advancements!
 
 Let's connect [Twitter](https://twitter.com/NickGonzalez__) 🐦, [Linkedin](https://www.linkedin.com/in/nicholasgonzalez1/) 👔❗️
 
