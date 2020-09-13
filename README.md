@@ -11,7 +11,7 @@ Let's connect [Twitter](https://twitter.com/NickGonzalez__) 🐦, [Linkedin](htt
 - Software Engineer👨‍💻
 - Living in south Florida🌴
 - Shipping dope projects 🚀
-- Waiting for [#2021]
+- Waiting for [#2021]()
 - Excerise? I 🏃‍♂️.
 - Self help? I 🧘.
 - Caffine? I ☕️.
