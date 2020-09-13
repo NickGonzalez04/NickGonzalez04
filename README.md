@@ -1,5 +1,5 @@
 
-# Hey, welcome to my Readme!🤓
+# Hey, welcome to my README!🤓
 
 I'm Nick, Growing my intelect more in new tech so I can help society make crazy advancements!
 
@@ -11,8 +11,7 @@ Let's connect [Twitter](https://twitter.com/NickGonzalez__) 🐦, [Linkedin](htt
 - Software Engineer👨‍💻
 - Living in south Florida🌴
 - Shipping dope projects 🚀
-
-- Growing my intelect more in new tech so I can help society make crazy advancements!
+- Waiting for #2021
 - Excerise? I 🏃‍♂️.
 - Self help? I 🧘.
 - Caffine? I ☕️.
