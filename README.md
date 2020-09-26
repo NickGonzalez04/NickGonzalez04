@@ -1,15 +1,15 @@
 
 # Hey, I'm Nicholas! Welcome to my README!🤓
 
-   <p><em>Founder</em></p>
-   <p><em>Software Engineer👨‍💻</em></p>
+   <p><em>Founder</em></br>
+   <em>Software Engineer👨‍💻</em></p>
 
 ## Let's connect! <p><em>I love meeting new people!</em></p>
-<br>
+
 🐦[![Twitter: NickGonzalez__](https://img.shields.io/twitter/follow/NickGonzalez__?style=social)](https://twitter.com/NickGonzalez__)
-<br>
+
 👔[![Linkedin: NickGonzalez ](https://img.shields.io/badge/-nicholasgonzalez1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholasgonzalez1/)](https://www.linkedin.com/in/nicholasgonzalez1/)
-<br>
+
 💻[![Github NickGonzalez04](https://img.shields.io/github/followers/NickGonzalez04?label=follow&style=social)](https://github.com/NickGonzalez04/)
 ## Little About me!
 
