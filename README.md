@@ -3,7 +3,7 @@
 
    <p><em>Founder</em></br>
    <em>Software Engineer👨‍💻</em></br>
-   Waiting for <a href="https://www.timeanddate.com/countdown/to?msg=J-La%27s%20Countdown%20to%202021&p0=411&year=2021&month=1&day=1&hour=0&min=0&sec=0"> #2021</a></p>
+   
 
 ## Let's connect! <em>I love meeting new people!</em>
 🐦 [![Twitter: NickGonzalez__](https://img.shields.io/twitter/follow/NickGonzalez__?style=social)](https://twitter.com/NickGonzalez__)
