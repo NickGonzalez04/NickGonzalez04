@@ -17,7 +17,7 @@
 const nicholasGonzalez = {
    currently: 'Shipping dope projects 🚀',
    location: 'Flordia🌴'
-   code: [JavaScript, HTML, CSS, Python, GraphQL],
+   code: [JavaScript, HTML, CSS, Python, GraphQL, Solidity],
    frameworks: [React, Redux, Node, Express, Apollo],
    interest: {
       Excerise: '🏃‍♂️'
