@@ -30,5 +30,5 @@ const nicholasGonzalez = {
 
 ## The work
 
-Check out the pinned projects or jump on over to the [portfolio](https://nicholas-gonzalez.me/)!
+Check out the pinned projects!
  
