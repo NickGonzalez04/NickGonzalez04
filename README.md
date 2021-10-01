@@ -1,7 +1,6 @@
 
 # Hey, I'm Nicholas! Welcome to my README!🤓
 
-   <p><em>Founder</em></br>
    <em>Software Engineer👨‍💻</em></br>
    
 
